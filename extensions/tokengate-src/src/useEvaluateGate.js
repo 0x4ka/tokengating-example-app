@@ -5,7 +5,7 @@ import {
 
 // Set this to the ngrok url that is generated when you run the server
 // The url will be something like https://12345678.ngrok.io (no trailing slash or query params)
-export const host = "YOUR_NGROK_URL";
+export const host = "ef0f-240a-6b-a71-12d3-8808-2246-1dd7-d490.ngrok-free.app";
 
 if (host == "YOUR_NGROK_URL") {
   console.error(`
